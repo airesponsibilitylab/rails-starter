@@ -1,0 +1,6 @@
+/* @import "some_other_file"; */
+
+
+.card {
+  @apply border border-slate-900 rounded-md;
+}
